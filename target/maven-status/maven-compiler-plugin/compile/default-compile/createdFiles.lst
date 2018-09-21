@@ -1,0 +1,7 @@
+trng\samp\pojo\LoginVerify.class
+trng\samp\dao\LoginDaoImpl.class
+trng\samp\controller\LoginController.class
+trng\samp\services\LoginServiceInt.class
+trng\samp\services\LoginServiceImpl.class
+trng\samp\dao\LoginDaoInt.class
+trng\samp\utils\HibernateUtils.class
